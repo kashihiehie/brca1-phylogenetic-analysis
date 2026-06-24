@@ -1,0 +1,17 @@
+The phylogenetic tree of BRCA1 shows an evolutionary relationship among all of the 10 species.In the tree it is observed that 
+the mouse and rat clusters together tightly with a short branch length which shows their recent common ancestry with mammals.
+Primates forms the other closely related pair which shows that they have been evolved recently.
+The chicken shows larger branch length which shows greater sequence divergence from mammels. The invertebrates are more distantly
+related, with branch lengths >0.25, consistent with their evolutionary separation from vertebrates approximately 600+ million 
+years ago.
+
+The overall short branch length in the tree shows that the BRCA1 is highly conserved across all of the species analysed i.e., 
+from invertebrates to mammals. This conservation shows that the BRCA1 perform a very important function that is, DNA repair 
+and tumor supression which is essential for all animals. The evolution has maintained this gene's sequence because mutations
+that alter the BRCA1 would compromise its essential functions and can be harmful as well. This explains why BRCA1 mutations 
+in humans have severe consequences and hence increases the breast cancer risk.
+
+These findings support the hypothesis that BRCA1 is under strong purifying selection with little tolerance for the sequence 
+variation. The presence of recognizable BRCA1 sequence in invertebrates like roundworm and drosophila indicates that the DNA 
+repair mechanism was evolved veru early in animal evolution. This evolutionary conservation of BRCA1 brings out its fundamental 
+importance in maintaining genomic stability across all animal life.
